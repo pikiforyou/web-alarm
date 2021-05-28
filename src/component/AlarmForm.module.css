@@ -1,0 +1,32 @@
+select {
+  border: none;
+  font-size: 20px;
+  margin: 20px;
+  background-color: cornflowerblue;
+  width: 180px;
+  height: 50px;
+  text-align: center;
+}
+
+input {
+  font-size: 20px;
+  border: none;
+  border-bottom: 0.5px solid cornflowerblue;
+  text-align: center;
+}
+
+.timeBox {
+  text-align: center;
+  margin: 10px;
+}
+
+.contentBox {
+  text-align: center;
+  margin: 10px;
+}
+
+.submitBox {
+  text-align: center;
+  margin-top: 20px;
+  border: 0.5px solid cornflowerblue;
+}

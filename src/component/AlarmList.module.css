@@ -1,0 +1,19 @@
+li {
+  font-size: 20px;
+  margin: 20px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #dadce0;
+}
+
+.timeBox {
+  color: cornflowerblue;
+}
+
+.contentBox {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.modeBox {
+  font-size: 10px;
+}
